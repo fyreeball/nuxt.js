@@ -1888,17 +1888,17 @@
     consola "^2.10.1"
     node-fetch "^2.6.0"
 
-"@nuxt/telemetry@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.npmjs.org/@nuxt/telemetry/-/telemetry-0.0.6.tgz#de5c1a4d94678361033eaf87d3f9ba2fc95f0143"
-  integrity sha512-sPv4NuqnFskEb3DLZF+ItDNbl/19YdXkDqY/99uNtJoSDTe7F/YRLYH1SHzWwI8sNczA9Wn/uQCx6qJ5BPAO1A==
+"@nuxt/telemetry@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.npmjs.org/@nuxt/telemetry/-/telemetry-0.0.7.tgz#8f21e6cdb8bc9058428d93c23d425bfaa2da4707"
+  integrity sha512-NGWAaVGsnvf+FnHFFyNaopFHOAR0vENAUKuXpuD280n9etpAESVDLcLqH4siM7EW96Fp6YivI3YhBxNI3JziMg==
   dependencies:
     arg "^4.1.3"
     ci-info "^2.0.0"
-    consola "^2.11.3"
+    consola "^2.12.2"
     defu "^2.0.4"
-    destr "^0.1.4"
-    fs-extra "^9.0.0"
+    destr "^0.1.9"
+    fs-extra "^9.0.1"
     git-url-parse "^11.1.2"
     inquirer "^7.1.0"
     is-docker "^2.0.0"
@@ -4316,7 +4316,7 @@ connect@^3.7.0:
     parseurl "~1.3.3"
     utils-merge "1.0.1"
 
-consola@^2.10.0, consola@^2.10.1, consola@^2.11.3, consola@^2.12.2, consola@^2.6.0, consola@^2.9.0:
+consola@^2.10.0, consola@^2.10.1, consola@^2.12.2, consola@^2.6.0, consola@^2.9.0:
   version "2.12.2"
   resolved "https://registry.npmjs.org/consola/-/consola-2.12.2.tgz#9610f158e7b0a9ecc8f8bb0c4fc8e7c52bf41d05"
   integrity sha512-c9mzemrAk57s3UIjepn8KKkuEH5fauMdot5kFSJUnqHcnApVS9Db8Rbv5AZ1Iz6lXzaGe9z1crQXhJtGX4h/Og==
@@ -5025,7 +5025,7 @@ des.js@^1.0.0:
     inherits "^2.0.1"
     minimalistic-assert "^1.0.0"
 
-destr@^0.1.4, destr@^0.1.9:
+destr@^0.1.9:
   version "0.1.9"
   resolved "https://registry.npmjs.org/destr/-/destr-0.1.9.tgz#dcba2eece57db00dec5292c9c61dc104bff384f8"
   integrity sha512-5Ro7GLjdeXObdf5mYN37utIG++nyJxfMmvExopgHRZOVj4Ft8574EFIEvhSvgniN65BLecUKilkeB2H9GpHzsw==
@@ -6200,7 +6200,7 @@ fs-extra@^8.1.0:
     jsonfile "^4.0.0"
     universalify "^0.1.0"
 
-fs-extra@^9.0.0:
+fs-extra@^9.0.0, fs-extra@^9.0.1:
   version "9.0.1"
   resolved "https://registry.npmjs.org/fs-extra/-/fs-extra-9.0.1.tgz#910da0062437ba4c39fedd863f1675ccfefcb9fc"
   integrity sha512-h2iAoN838FqAFJY2/qVpzFXy+EBxfVE220PalAqQLDVsFOHLJrZvut5puAbCdNv6WJk+B8ihI+k0c7JK5erwqQ==
@@ -7966,10 +7966,10 @@ jest@^26.0.1:
     import-local "^3.0.2"
     jest-cli "^26.0.1"
 
-jiti@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.npmjs.org/jiti/-/jiti-0.1.3.tgz#7d3722f542b7ea1678e2ea96af633fabdc92a31b"
-  integrity sha512-tsWnOUChON4mJwhIii0W6NvJm1E4soSGW8ImzqQwPwt6rRih0AERBRSEF3QCaShkJuuI6IPNsE9MHtVEWGNqrQ==
+jiti@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.npmjs.org/jiti/-/jiti-0.1.7.tgz#7d28d29ae69c91ff5e2cd3184f2ccbe0607e93ba"
+  integrity sha512-Xo17OKUtmnevMRkUoyRZo6l3x8QOW58keRb2kOAF5rePnMTK+UmmQUejmEOxT/cUAeabfUzPRrjjFZoepKWngw==
 
 js-base64@^2.1.8:
   version "2.5.2"
